@@ -103,18 +103,18 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-
+![output](https://github.com/mudipavan/Color-Conversion/blob/main/dip3p(1).jpg)
 
 ### ii) HSV to RGB and BGR
-
+![output](
 ### iii) RGB and BGR to YCrCb
-
+![output](
 
 ### iv) Split and merge RGB Image
-
+![output](
 
 ### v) Split and merge HSV Image
-
+![output](
 
 
 ## Result:
