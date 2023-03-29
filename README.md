@@ -111,7 +111,7 @@ cv2.destroyAllWindows()
 ![output](https://github.com/mudipavan/Color-Conversion/blob/main/dip3p(3).jpg)
 
 ### iv) Split and merge RGB Image
-![output](http)s://github.com/mudipavan/Color-Conversion/blob/main/dip3p(4).jpg)
+![output](https://github.com/mudipavan/Color-Conversion/blob/main/dip3p(4).jpg)
 
 ### v) Split and merge HSV Image
 ![output](https://github.com/mudipavan/Color-Conversion/blob/main/dip3p(5).jpg)
